@@ -1,5 +1,6 @@
 ### Hi there 👋
 こんにちは
+aiueo
 <!--
 **YutaYamasaki0105/YutaYamasaki0105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
